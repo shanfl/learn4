@@ -3,6 +3,7 @@ void f()
 {
     // add 
     printf("f funcction!")
+    return;
 }
 
 void h(){
