@@ -8,6 +8,7 @@ void f()
 
 void h(){
     //
+    print("h")
 }
 int main(){
     fprintf(stderr, "%s", "hello world!");
