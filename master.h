@@ -2,6 +2,7 @@
 void f()
 {
     // add 
+    printf("f funcction!")
 }
 
 void h(){
