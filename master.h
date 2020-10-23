@@ -1,7 +1,9 @@
 #define HAND
 void f()
 {
-    // add 
+    // add
+    fprintf(stderr, "f");
+    return;
 }
 
 void h(){
